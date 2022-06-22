@@ -1,0 +1,687 @@
+"Notes"	"Multiple Cause of death"	"Multiple Cause of death Code"	"State"	"State Code"	"Ten-Year Age Groups"	"Ten-Year Age Groups Code"	"Gender"	"Gender Code"	Deaths	Population	Crude Rate
+	"Other synthetic narcotics"	"T40.4"	"Alabama"	"01"	"15-24 years"	"15-24"	"Female"	"F"	31	7161505	0.4
+	"Other synthetic narcotics"	"T40.4"	"Alabama"	"01"	"15-24 years"	"15-24"	"Male"	"M"	101	7290395	1.4
+	"Other synthetic narcotics"	"T40.4"	"Alabama"	"01"	"25-34 years"	"25-34"	"Female"	"F"	139	6828376	2.0
+	"Other synthetic narcotics"	"T40.4"	"Alabama"	"01"	"25-34 years"	"25-34"	"Male"	"M"	315	6637709	4.7
+	"Other synthetic narcotics"	"T40.4"	"Alabama"	"01"	"35-44 years"	"35-44"	"Female"	"F"	137	7078838	1.9
+	"Other synthetic narcotics"	"T40.4"	"Alabama"	"01"	"35-44 years"	"35-44"	"Male"	"M"	306	6743731	4.5
+	"Other synthetic narcotics"	"T40.4"	"Alabama"	"01"	"45-54 years"	"45-54"	"Female"	"F"	111	7340512	1.5
+	"Other synthetic narcotics"	"T40.4"	"Alabama"	"01"	"45-54 years"	"45-54"	"Male"	"M"	179	6935089	2.6
+	"Other synthetic narcotics"	"T40.4"	"Alabama"	"01"	"55-64 years"	"55-64"	"Female"	"F"	67	6447003	1.0
+	"Other synthetic narcotics"	"T40.4"	"Alabama"	"01"	"55-64 years"	"55-64"	"Male"	"M"	105	5872453	1.8
+	"Other synthetic narcotics"	"T40.4"	"Alabama"	"01"	"65-74 years"	"65-74"	"Male"	"M"	17	3900194	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"Alaska"	"02"	"15-24 years"	"15-24"	"Female"	"F"	13	1042715	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"Alaska"	"02"	"15-24 years"	"15-24"	"Male"	"M"	21	1234839	1.7
+	"Other synthetic narcotics"	"T40.4"	"Alaska"	"02"	"25-34 years"	"25-34"	"Female"	"F"	27	1072490	2.5
+	"Other synthetic narcotics"	"T40.4"	"Alaska"	"02"	"25-34 years"	"25-34"	"Male"	"M"	42	1186497	3.5
+	"Other synthetic narcotics"	"T40.4"	"Alaska"	"02"	"35-44 years"	"35-44"	"Female"	"F"	17	1044971	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"Alaska"	"02"	"35-44 years"	"35-44"	"Male"	"M"	38	1115891	3.4
+	"Other synthetic narcotics"	"T40.4"	"Alaska"	"02"	"45-54 years"	"45-54"	"Female"	"F"	22	1061505	2.1
+	"Other synthetic narcotics"	"T40.4"	"Alaska"	"02"	"45-54 years"	"45-54"	"Male"	"M"	32	1160417	2.8
+	"Other synthetic narcotics"	"T40.4"	"Alaska"	"02"	"55-64 years"	"55-64"	"Female"	"F"	19	803627	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"Alaska"	"02"	"55-64 years"	"55-64"	"Male"	"M"	21	891041	2.4
+	"Other synthetic narcotics"	"T40.4"	"Arizona"	"04"	"15-24 years"	"15-24"	"Female"	"F"	154	9329298	1.7
+	"Other synthetic narcotics"	"T40.4"	"Arizona"	"04"	"15-24 years"	"15-24"	"Male"	"M"	620	10022760	6.2
+	"Other synthetic narcotics"	"T40.4"	"Arizona"	"04"	"25-34 years"	"25-34"	"Female"	"F"	246	9184405	2.7
+	"Other synthetic narcotics"	"T40.4"	"Arizona"	"04"	"25-34 years"	"25-34"	"Male"	"M"	825	9797220	8.4
+	"Other synthetic narcotics"	"T40.4"	"Arizona"	"04"	"35-44 years"	"35-44"	"Female"	"F"	254	8979544	2.8
+	"Other synthetic narcotics"	"T40.4"	"Arizona"	"04"	"35-44 years"	"35-44"	"Male"	"M"	585	9181065	6.4
+	"Other synthetic narcotics"	"T40.4"	"Arizona"	"04"	"45-54 years"	"45-54"	"Female"	"F"	239	8783290	2.7
+	"Other synthetic narcotics"	"T40.4"	"Arizona"	"04"	"45-54 years"	"45-54"	"Male"	"M"	402	8536398	4.7
+	"Other synthetic narcotics"	"T40.4"	"Arizona"	"04"	"55-64 years"	"55-64"	"Female"	"F"	200	7934980	2.5
+	"Other synthetic narcotics"	"T40.4"	"Arizona"	"04"	"55-64 years"	"55-64"	"Male"	"M"	208	7212357	2.9
+	"Other synthetic narcotics"	"T40.4"	"Arizona"	"04"	"65-74 years"	"65-74"	"Female"	"F"	48	6106793	0.8
+	"Other synthetic narcotics"	"T40.4"	"Arizona"	"04"	"65-74 years"	"65-74"	"Male"	"M"	40	5452399	0.7
+	"Other synthetic narcotics"	"T40.4"	"Arizona"	"04"	"75-84 years"	"75-84"	"Female"	"F"	13	3609240	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"Arkansas"	"05"	"15-24 years"	"15-24"	"Female"	"F"	26	4283300	0.6
+	"Other synthetic narcotics"	"T40.4"	"Arkansas"	"05"	"15-24 years"	"15-24"	"Male"	"M"	102	4454790	2.3
+	"Other synthetic narcotics"	"T40.4"	"Arkansas"	"05"	"25-34 years"	"25-34"	"Female"	"F"	82	4099334	2.0
+	"Other synthetic narcotics"	"T40.4"	"Arkansas"	"05"	"25-34 years"	"25-34"	"Male"	"M"	196	4127866	4.7
+	"Other synthetic narcotics"	"T40.4"	"Arkansas"	"05"	"35-44 years"	"35-44"	"Female"	"F"	116	4155527	2.8
+	"Other synthetic narcotics"	"T40.4"	"Arkansas"	"05"	"35-44 years"	"35-44"	"Male"	"M"	152	4104348	3.7
+	"Other synthetic narcotics"	"T40.4"	"Arkansas"	"05"	"45-54 years"	"45-54"	"Female"	"F"	89	4245699	2.1
+	"Other synthetic narcotics"	"T40.4"	"Arkansas"	"05"	"45-54 years"	"45-54"	"Male"	"M"	100	4107163	2.4
+	"Other synthetic narcotics"	"T40.4"	"Arkansas"	"05"	"55-64 years"	"55-64"	"Female"	"F"	63	3823838	1.6
+	"Other synthetic narcotics"	"T40.4"	"Arkansas"	"05"	"55-64 years"	"55-64"	"Male"	"M"	38	3547824	1.1
+	"Other synthetic narcotics"	"T40.4"	"Arkansas"	"05"	"65-74 years"	"65-74"	"Female"	"F"	12	2838740	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"Arkansas"	"05"	"65-74 years"	"65-74"	"Male"	"M"	13	2468590	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"California"	"06"	"5-14 years"	"5-14"	"Female"	"F"	10	55241432	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"California"	"06"	"15-24 years"	"15-24"	"Female"	"F"	308	56455980	0.5
+	"Other synthetic narcotics"	"T40.4"	"California"	"06"	"15-24 years"	"15-24"	"Male"	"M"	1208	60547200	2.0
+	"Other synthetic narcotics"	"T40.4"	"California"	"06"	"25-34 years"	"25-34"	"Female"	"F"	522	58825251	0.9
+	"Other synthetic narcotics"	"T40.4"	"California"	"06"	"25-34 years"	"25-34"	"Male"	"M"	2088	62000695	3.4
+	"Other synthetic narcotics"	"T40.4"	"California"	"06"	"35-44 years"	"35-44"	"Female"	"F"	562	57949675	1.0
+	"Other synthetic narcotics"	"T40.4"	"California"	"06"	"35-44 years"	"35-44"	"Male"	"M"	1483	58911014	2.5
+	"Other synthetic narcotics"	"T40.4"	"California"	"06"	"45-54 years"	"45-54"	"Female"	"F"	697	55111619	1.3
+	"Other synthetic narcotics"	"T40.4"	"California"	"06"	"45-54 years"	"45-54"	"Male"	"M"	1181	54292047	2.2
+	"Other synthetic narcotics"	"T40.4"	"California"	"06"	"55-64 years"	"55-64"	"Female"	"F"	518	43927348	1.2
+	"Other synthetic narcotics"	"T40.4"	"California"	"06"	"55-64 years"	"55-64"	"Male"	"M"	804	41144534	2.0
+	"Other synthetic narcotics"	"T40.4"	"California"	"06"	"65-74 years"	"65-74"	"Female"	"F"	162	28998219	0.6
+	"Other synthetic narcotics"	"T40.4"	"California"	"06"	"65-74 years"	"65-74"	"Male"	"M"	232	24942034	0.9
+	"Other synthetic narcotics"	"T40.4"	"California"	"06"	"75-84 years"	"75-84"	"Female"	"F"	40	18123678	0.2
+	"Other synthetic narcotics"	"T40.4"	"California"	"06"	"75-84 years"	"75-84"	"Male"	"M"	30	13396771	0.2
+	"Other synthetic narcotics"	"T40.4"	"California"	"06"	"85+ years"	"85+"	"Female"	"F"	17	8441504	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"California"	"06"	"85+ years"	"85+"	"Male"	"M"	11	4561249	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"Colorado"	"08"	"15-24 years"	"15-24"	"Female"	"F"	63	7285429	0.9
+	"Other synthetic narcotics"	"T40.4"	"Colorado"	"08"	"15-24 years"	"15-24"	"Male"	"M"	196	7931250	2.5
+	"Other synthetic narcotics"	"T40.4"	"Colorado"	"08"	"25-34 years"	"25-34"	"Female"	"F"	153	7942683	1.9
+	"Other synthetic narcotics"	"T40.4"	"Colorado"	"08"	"25-34 years"	"25-34"	"Male"	"M"	341	8598327	4.0
+	"Other synthetic narcotics"	"T40.4"	"Colorado"	"08"	"35-44 years"	"35-44"	"Female"	"F"	202	7862258	2.6
+	"Other synthetic narcotics"	"T40.4"	"Colorado"	"08"	"35-44 years"	"35-44"	"Male"	"M"	284	8200492	3.5
+	"Other synthetic narcotics"	"T40.4"	"Colorado"	"08"	"45-54 years"	"45-54"	"Female"	"F"	192	7695102	2.5
+	"Other synthetic narcotics"	"T40.4"	"Colorado"	"08"	"45-54 years"	"45-54"	"Male"	"M"	167	7716717	2.2
+	"Other synthetic narcotics"	"T40.4"	"Colorado"	"08"	"55-64 years"	"55-64"	"Female"	"F"	108	6259529	1.7
+	"Other synthetic narcotics"	"T40.4"	"Colorado"	"08"	"55-64 years"	"55-64"	"Male"	"M"	122	6035268	2.0
+	"Other synthetic narcotics"	"T40.4"	"Colorado"	"08"	"65-74 years"	"65-74"	"Female"	"F"	30	3919143	0.8
+	"Other synthetic narcotics"	"T40.4"	"Colorado"	"08"	"65-74 years"	"65-74"	"Male"	"M"	26	3555344	0.7
+	"Other synthetic narcotics"	"T40.4"	"Colorado"	"08"	"75-84 years"	"75-84"	"Female"	"F"	14	2210754	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"Connecticut"	"09"	"15-24 years"	"15-24"	"Female"	"F"	105	4976537	2.1
+	"Other synthetic narcotics"	"T40.4"	"Connecticut"	"09"	"15-24 years"	"15-24"	"Male"	"M"	252	5256139	4.8
+	"Other synthetic narcotics"	"T40.4"	"Connecticut"	"09"	"25-34 years"	"25-34"	"Female"	"F"	259	4742058	5.5
+	"Other synthetic narcotics"	"T40.4"	"Connecticut"	"09"	"25-34 years"	"25-34"	"Male"	"M"	908	4757554	19.1
+	"Other synthetic narcotics"	"T40.4"	"Connecticut"	"09"	"35-44 years"	"35-44"	"Female"	"F"	243	5583426	4.4
+	"Other synthetic narcotics"	"T40.4"	"Connecticut"	"09"	"35-44 years"	"35-44"	"Male"	"M"	943	5347217	17.6
+	"Other synthetic narcotics"	"T40.4"	"Connecticut"	"09"	"45-54 years"	"45-54"	"Female"	"F"	267	5956377	4.5
+	"Other synthetic narcotics"	"T40.4"	"Connecticut"	"09"	"45-54 years"	"45-54"	"Male"	"M"	777	5654086	13.7
+	"Other synthetic narcotics"	"T40.4"	"Connecticut"	"09"	"55-64 years"	"55-64"	"Female"	"F"	174	4882489	3.6
+	"Other synthetic narcotics"	"T40.4"	"Connecticut"	"09"	"55-64 years"	"55-64"	"Male"	"M"	524	4537943	11.5
+	"Other synthetic narcotics"	"T40.4"	"Connecticut"	"09"	"65-74 years"	"65-74"	"Female"	"F"	26	3226507	0.8
+	"Other synthetic narcotics"	"T40.4"	"Connecticut"	"09"	"65-74 years"	"65-74"	"Male"	"M"	87	2746315	3.2
+	"Other synthetic narcotics"	"T40.4"	"Delaware"	"10"	"15-24 years"	"15-24"	"Female"	"F"	32	1310157	2.4
+	"Other synthetic narcotics"	"T40.4"	"Delaware"	"10"	"15-24 years"	"15-24"	"Male"	"M"	58	1329943	4.4
+	"Other synthetic narcotics"	"T40.4"	"Delaware"	"10"	"25-34 years"	"25-34"	"Female"	"F"	124	1282553	9.7
+	"Other synthetic narcotics"	"T40.4"	"Delaware"	"10"	"25-34 years"	"25-34"	"Male"	"M"	313	1260794	24.8
+	"Other synthetic narcotics"	"T40.4"	"Delaware"	"10"	"35-44 years"	"35-44"	"Female"	"F"	118	1333852	8.8
+	"Other synthetic narcotics"	"T40.4"	"Delaware"	"10"	"35-44 years"	"35-44"	"Male"	"M"	275	1272811	21.6
+	"Other synthetic narcotics"	"T40.4"	"Delaware"	"10"	"45-54 years"	"45-54"	"Female"	"F"	91	1396950	6.5
+	"Other synthetic narcotics"	"T40.4"	"Delaware"	"10"	"45-54 years"	"45-54"	"Male"	"M"	216	1298191	16.6
+	"Other synthetic narcotics"	"T40.4"	"Delaware"	"10"	"55-64 years"	"55-64"	"Female"	"F"	68	1253153	5.4
+	"Other synthetic narcotics"	"T40.4"	"Delaware"	"10"	"55-64 years"	"55-64"	"Male"	"M"	134	1113841	12.0
+	"Other synthetic narcotics"	"T40.4"	"Delaware"	"10"	"65-74 years"	"65-74"	"Male"	"M"	22	794501	2.8
+	"Other synthetic narcotics"	"T40.4"	"District of Columbia"	"11"	"15-24 years"	"15-24"	"Male"	"M"	18	954039	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"District of Columbia"	"11"	"25-34 years"	"25-34"	"Female"	"F"	26	1487296	1.7
+	"Other synthetic narcotics"	"T40.4"	"District of Columbia"	"11"	"25-34 years"	"25-34"	"Male"	"M"	82	1335097	6.1
+	"Other synthetic narcotics"	"T40.4"	"District of Columbia"	"11"	"35-44 years"	"35-44"	"Female"	"F"	26	990786	2.6
+	"Other synthetic narcotics"	"T40.4"	"District of Columbia"	"11"	"35-44 years"	"35-44"	"Male"	"M"	107	992357	10.8
+	"Other synthetic narcotics"	"T40.4"	"District of Columbia"	"11"	"45-54 years"	"45-54"	"Female"	"F"	94	848693	11.1
+	"Other synthetic narcotics"	"T40.4"	"District of Columbia"	"11"	"45-54 years"	"45-54"	"Male"	"M"	173	815083	21.2
+	"Other synthetic narcotics"	"T40.4"	"District of Columbia"	"11"	"55-64 years"	"55-64"	"Female"	"F"	98	737081	13.3
+	"Other synthetic narcotics"	"T40.4"	"District of Columbia"	"11"	"55-64 years"	"55-64"	"Male"	"M"	300	636952	47.1
+	"Other synthetic narcotics"	"T40.4"	"District of Columbia"	"11"	"65-74 years"	"65-74"	"Female"	"F"	20	491370	4.1
+	"Other synthetic narcotics"	"T40.4"	"District of Columbia"	"11"	"65-74 years"	"65-74"	"Male"	"M"	105	377396	27.8
+	"Other synthetic narcotics"	"T40.4"	"Florida"	"12"	"1-4 years"	"1-4"	"Male"	"M"	10	9594073	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"Florida"	"12"	"15-24 years"	"15-24"	"Female"	"F"	314	25193882	1.2
+	"Other synthetic narcotics"	"T40.4"	"Florida"	"12"	"15-24 years"	"15-24"	"Male"	"M"	809	26514978	3.1
+	"Other synthetic narcotics"	"T40.4"	"Florida"	"12"	"25-34 years"	"25-34"	"Female"	"F"	1307	25852008	5.1
+	"Other synthetic narcotics"	"T40.4"	"Florida"	"12"	"25-34 years"	"25-34"	"Male"	"M"	3433	26360042	13.0
+	"Other synthetic narcotics"	"T40.4"	"Florida"	"12"	"35-44 years"	"35-44"	"Female"	"F"	1297	27713120	4.7
+	"Other synthetic narcotics"	"T40.4"	"Florida"	"12"	"35-44 years"	"35-44"	"Male"	"M"	3399	27366172	12.4
+	"Other synthetic narcotics"	"T40.4"	"Florida"	"12"	"45-54 years"	"45-54"	"Female"	"F"	1055	28861092	3.7
+	"Other synthetic narcotics"	"T40.4"	"Florida"	"12"	"45-54 years"	"45-54"	"Male"	"M"	2316	27571976	8.4
+	"Other synthetic narcotics"	"T40.4"	"Florida"	"12"	"55-64 years"	"55-64"	"Female"	"F"	620	26472766	2.3
+	"Other synthetic narcotics"	"T40.4"	"Florida"	"12"	"55-64 years"	"55-64"	"Male"	"M"	1382	23691994	5.8
+	"Other synthetic narcotics"	"T40.4"	"Florida"	"12"	"65-74 years"	"65-74"	"Female"	"F"	119	21654656	0.5
+	"Other synthetic narcotics"	"T40.4"	"Florida"	"12"	"65-74 years"	"65-74"	"Male"	"M"	247	18763474	1.3
+	"Other synthetic narcotics"	"T40.4"	"Florida"	"12"	"75-84 years"	"75-84"	"Female"	"F"	40	14271711	0.3
+	"Other synthetic narcotics"	"T40.4"	"Florida"	"12"	"75-84 years"	"75-84"	"Male"	"M"	28	11322481	0.2
+	"Other synthetic narcotics"	"T40.4"	"Florida"	"12"	"85+ years"	"85+"	"Female"	"F"	17	6159492	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"Georgia"	"13"	"15-24 years"	"15-24"	"Female"	"F"	91	14583886	0.6
+	"Other synthetic narcotics"	"T40.4"	"Georgia"	"13"	"15-24 years"	"15-24"	"Male"	"M"	284	15295942	1.9
+	"Other synthetic narcotics"	"T40.4"	"Georgia"	"13"	"25-34 years"	"25-34"	"Female"	"F"	267	15047701	1.8
+	"Other synthetic narcotics"	"T40.4"	"Georgia"	"13"	"25-34 years"	"25-34"	"Male"	"M"	755	14872062	5.1
+	"Other synthetic narcotics"	"T40.4"	"Georgia"	"13"	"35-44 years"	"35-44"	"Female"	"F"	335	15515134	2.2
+	"Other synthetic narcotics"	"T40.4"	"Georgia"	"13"	"35-44 years"	"35-44"	"Male"	"M"	619	14902259	4.2
+	"Other synthetic narcotics"	"T40.4"	"Georgia"	"13"	"45-54 years"	"45-54"	"Female"	"F"	323	14791545	2.2
+	"Other synthetic narcotics"	"T40.4"	"Georgia"	"13"	"45-54 years"	"45-54"	"Male"	"M"	406	14006013	2.9
+	"Other synthetic narcotics"	"T40.4"	"Georgia"	"13"	"55-64 years"	"55-64"	"Female"	"F"	181	11759674	1.5
+	"Other synthetic narcotics"	"T40.4"	"Georgia"	"13"	"55-64 years"	"55-64"	"Male"	"M"	238	10669929	2.2
+	"Other synthetic narcotics"	"T40.4"	"Georgia"	"13"	"65-74 years"	"65-74"	"Female"	"F"	36	7672467	0.5
+	"Other synthetic narcotics"	"T40.4"	"Georgia"	"13"	"65-74 years"	"65-74"	"Male"	"M"	51	6421627	0.8
+	"Other synthetic narcotics"	"T40.4"	"Hawaii"	"15"	"25-34 years"	"25-34"	"Male"	"M"	19	2153514	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"Hawaii"	"15"	"35-44 years"	"35-44"	"Male"	"M"	32	2014211	1.6
+	"Other synthetic narcotics"	"T40.4"	"Hawaii"	"15"	"45-54 years"	"45-54"	"Female"	"F"	17	1995281	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"Hawaii"	"15"	"45-54 years"	"45-54"	"Male"	"M"	27	1995754	1.4
+	"Other synthetic narcotics"	"T40.4"	"Hawaii"	"15"	"55-64 years"	"55-64"	"Female"	"F"	12	1765020	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"Hawaii"	"15"	"55-64 years"	"55-64"	"Male"	"M"	21	1714751	1.2
+	"Other synthetic narcotics"	"T40.4"	"Idaho"	"16"	"15-24 years"	"15-24"	"Male"	"M"	26	2533534	1.0
+	"Other synthetic narcotics"	"T40.4"	"Idaho"	"16"	"25-34 years"	"25-34"	"Female"	"F"	20	2177599	0.9
+	"Other synthetic narcotics"	"T40.4"	"Idaho"	"16"	"25-34 years"	"25-34"	"Male"	"M"	46	2273281	2.0
+	"Other synthetic narcotics"	"T40.4"	"Idaho"	"16"	"35-44 years"	"35-44"	"Female"	"F"	32	2166572	1.5
+	"Other synthetic narcotics"	"T40.4"	"Idaho"	"16"	"35-44 years"	"35-44"	"Male"	"M"	48	2215103	2.2
+	"Other synthetic narcotics"	"T40.4"	"Idaho"	"16"	"45-54 years"	"45-54"	"Female"	"F"	39	2161966	1.8
+	"Other synthetic narcotics"	"T40.4"	"Idaho"	"16"	"45-54 years"	"45-54"	"Male"	"M"	30	2158640	1.4
+	"Other synthetic narcotics"	"T40.4"	"Idaho"	"16"	"55-64 years"	"55-64"	"Female"	"F"	28	1893826	1.5
+	"Other synthetic narcotics"	"T40.4"	"Idaho"	"16"	"55-64 years"	"55-64"	"Male"	"M"	18	1851517	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"Illinois"	"17"	"15-24 years"	"15-24"	"Female"	"F"	224	18886805	1.2
+	"Other synthetic narcotics"	"T40.4"	"Illinois"	"17"	"15-24 years"	"15-24"	"Male"	"M"	529	19813683	2.7
+	"Other synthetic narcotics"	"T40.4"	"Illinois"	"17"	"25-34 years"	"25-34"	"Female"	"F"	584	19339837	3.0
+	"Other synthetic narcotics"	"T40.4"	"Illinois"	"17"	"25-34 years"	"25-34"	"Male"	"M"	1690	19637515	8.6
+	"Other synthetic narcotics"	"T40.4"	"Illinois"	"17"	"35-44 years"	"35-44"	"Female"	"F"	690	19602154	3.5
+	"Other synthetic narcotics"	"T40.4"	"Illinois"	"17"	"35-44 years"	"35-44"	"Male"	"M"	1672	19457319	8.6
+	"Other synthetic narcotics"	"T40.4"	"Illinois"	"17"	"45-54 years"	"45-54"	"Female"	"F"	690	19502795	3.5
+	"Other synthetic narcotics"	"T40.4"	"Illinois"	"17"	"45-54 years"	"45-54"	"Male"	"M"	1668	18900019	8.8
+	"Other synthetic narcotics"	"T40.4"	"Illinois"	"17"	"55-64 years"	"55-64"	"Female"	"F"	426	16070397	2.7
+	"Other synthetic narcotics"	"T40.4"	"Illinois"	"17"	"55-64 years"	"55-64"	"Male"	"M"	1099	14969076	7.3
+	"Other synthetic narcotics"	"T40.4"	"Illinois"	"17"	"65-74 years"	"65-74"	"Female"	"F"	70	10794876	0.6
+	"Other synthetic narcotics"	"T40.4"	"Illinois"	"17"	"65-74 years"	"65-74"	"Male"	"M"	227	9131146	2.5
+	"Other synthetic narcotics"	"T40.4"	"Illinois"	"17"	"75-84 years"	"75-84"	"Female"	"F"	10	7107127	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"Illinois"	"17"	"75-84 years"	"75-84"	"Male"	"M"	16	4884255	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"Indiana"	"18"	"15-24 years"	"15-24"	"Female"	"F"	149	9908609	1.5
+	"Other synthetic narcotics"	"T40.4"	"Indiana"	"18"	"15-24 years"	"15-24"	"Male"	"M"	354	10333439	3.4
+	"Other synthetic narcotics"	"T40.4"	"Indiana"	"18"	"25-34 years"	"25-34"	"Female"	"F"	455	9159321	5.0
+	"Other synthetic narcotics"	"T40.4"	"Indiana"	"18"	"25-34 years"	"25-34"	"Male"	"M"	1123	9279594	12.1
+	"Other synthetic narcotics"	"T40.4"	"Indiana"	"18"	"35-44 years"	"35-44"	"Female"	"F"	414	9572576	4.3
+	"Other synthetic narcotics"	"T40.4"	"Indiana"	"18"	"35-44 years"	"35-44"	"Male"	"M"	968	9558426	10.1
+	"Other synthetic narcotics"	"T40.4"	"Indiana"	"18"	"45-54 years"	"45-54"	"Female"	"F"	310	9792495	3.2
+	"Other synthetic narcotics"	"T40.4"	"Indiana"	"18"	"45-54 years"	"45-54"	"Male"	"M"	577	9630600	6.0
+	"Other synthetic narcotics"	"T40.4"	"Indiana"	"18"	"55-64 years"	"55-64"	"Female"	"F"	182	8301215	2.2
+	"Other synthetic narcotics"	"T40.4"	"Indiana"	"18"	"55-64 years"	"55-64"	"Male"	"M"	285	7845872	3.6
+	"Other synthetic narcotics"	"T40.4"	"Indiana"	"18"	"65-74 years"	"65-74"	"Female"	"F"	24	5674281	0.4
+	"Other synthetic narcotics"	"T40.4"	"Indiana"	"18"	"65-74 years"	"65-74"	"Male"	"M"	61	4884439	1.2
+	"Other synthetic narcotics"	"T40.4"	"Iowa"	"19"	"15-24 years"	"15-24"	"Female"	"F"	28	4688836	0.6
+	"Other synthetic narcotics"	"T40.4"	"Iowa"	"19"	"15-24 years"	"15-24"	"Male"	"M"	78	4943315	1.6
+	"Other synthetic narcotics"	"T40.4"	"Iowa"	"19"	"25-34 years"	"25-34"	"Female"	"F"	57	4043758	1.4
+	"Other synthetic narcotics"	"T40.4"	"Iowa"	"19"	"25-34 years"	"25-34"	"Male"	"M"	167	4225330	4.0
+	"Other synthetic narcotics"	"T40.4"	"Iowa"	"19"	"35-44 years"	"35-44"	"Female"	"F"	77	4253055	1.8
+	"Other synthetic narcotics"	"T40.4"	"Iowa"	"19"	"35-44 years"	"35-44"	"Male"	"M"	142	4334666	3.3
+	"Other synthetic narcotics"	"T40.4"	"Iowa"	"19"	"45-54 years"	"45-54"	"Female"	"F"	83	4496122	1.8
+	"Other synthetic narcotics"	"T40.4"	"Iowa"	"19"	"45-54 years"	"45-54"	"Male"	"M"	106	4524909	2.3
+	"Other synthetic narcotics"	"T40.4"	"Iowa"	"19"	"55-64 years"	"55-64"	"Female"	"F"	58	3929689	1.5
+	"Other synthetic narcotics"	"T40.4"	"Iowa"	"19"	"55-64 years"	"55-64"	"Male"	"M"	48	3840196	1.2
+	"Other synthetic narcotics"	"T40.4"	"Iowa"	"19"	"65-74 years"	"65-74"	"Female"	"F"	13	2806053	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"Kansas"	"20"	"15-24 years"	"15-24"	"Female"	"F"	20	4385010	0.5
+	"Other synthetic narcotics"	"T40.4"	"Kansas"	"20"	"15-24 years"	"15-24"	"Male"	"M"	70	4717385	1.5
+	"Other synthetic narcotics"	"T40.4"	"Kansas"	"20"	"25-34 years"	"25-34"	"Female"	"F"	54	3937738	1.4
+	"Other synthetic narcotics"	"T40.4"	"Kansas"	"20"	"25-34 years"	"25-34"	"Male"	"M"	136	4122456	3.3
+	"Other synthetic narcotics"	"T40.4"	"Kansas"	"20"	"35-44 years"	"35-44"	"Female"	"F"	78	4023475	1.9
+	"Other synthetic narcotics"	"T40.4"	"Kansas"	"20"	"35-44 years"	"35-44"	"Male"	"M"	88	4076137	2.2
+	"Other synthetic narcotics"	"T40.4"	"Kansas"	"20"	"45-54 years"	"45-54"	"Female"	"F"	86	4129911	2.1
+	"Other synthetic narcotics"	"T40.4"	"Kansas"	"20"	"45-54 years"	"45-54"	"Male"	"M"	85	4103319	2.1
+	"Other synthetic narcotics"	"T40.4"	"Kansas"	"20"	"55-64 years"	"55-64"	"Female"	"F"	45	3502609	1.3
+	"Other synthetic narcotics"	"T40.4"	"Kansas"	"20"	"55-64 years"	"55-64"	"Male"	"M"	45	3371726	1.3
+	"Other synthetic narcotics"	"T40.4"	"Kentucky"	"21"	"15-24 years"	"15-24"	"Female"	"F"	115	6295871	1.8
+	"Other synthetic narcotics"	"T40.4"	"Kentucky"	"21"	"15-24 years"	"15-24"	"Male"	"M"	272	6615810	4.1
+	"Other synthetic narcotics"	"T40.4"	"Kentucky"	"21"	"25-34 years"	"25-34"	"Female"	"F"	497	6179547	8.0
+	"Other synthetic narcotics"	"T40.4"	"Kentucky"	"21"	"25-34 years"	"25-34"	"Male"	"M"	1073	6282556	17.1
+	"Other synthetic narcotics"	"T40.4"	"Kentucky"	"21"	"35-44 years"	"35-44"	"Female"	"F"	514	6488381	7.9
+	"Other synthetic narcotics"	"T40.4"	"Kentucky"	"21"	"35-44 years"	"35-44"	"Male"	"M"	1147	6449587	17.8
+	"Other synthetic narcotics"	"T40.4"	"Kentucky"	"21"	"45-54 years"	"45-54"	"Female"	"F"	424	6713660	6.3
+	"Other synthetic narcotics"	"T40.4"	"Kentucky"	"21"	"45-54 years"	"45-54"	"Male"	"M"	725	6519022	11.1
+	"Other synthetic narcotics"	"T40.4"	"Kentucky"	"21"	"55-64 years"	"55-64"	"Female"	"F"	185	5806367	3.2
+	"Other synthetic narcotics"	"T40.4"	"Kentucky"	"21"	"55-64 years"	"55-64"	"Male"	"M"	383	5421192	7.1
+	"Other synthetic narcotics"	"T40.4"	"Kentucky"	"21"	"65-74 years"	"65-74"	"Female"	"F"	30	4033933	0.7
+	"Other synthetic narcotics"	"T40.4"	"Kentucky"	"21"	"65-74 years"	"65-74"	"Male"	"M"	59	3481556	1.7
+	"Other synthetic narcotics"	"T40.4"	"Louisiana"	"22"	"15-24 years"	"15-24"	"Female"	"F"	39	7212244	0.5
+	"Other synthetic narcotics"	"T40.4"	"Louisiana"	"22"	"15-24 years"	"15-24"	"Male"	"M"	76	7342144	1.0
+	"Other synthetic narcotics"	"T40.4"	"Louisiana"	"22"	"25-34 years"	"25-34"	"Female"	"F"	123	6924740	1.8
+	"Other synthetic narcotics"	"T40.4"	"Louisiana"	"22"	"25-34 years"	"25-34"	"Male"	"M"	344	6842736	5.0
+	"Other synthetic narcotics"	"T40.4"	"Louisiana"	"22"	"35-44 years"	"35-44"	"Female"	"F"	163	6769680	2.4
+	"Other synthetic narcotics"	"T40.4"	"Louisiana"	"22"	"35-44 years"	"35-44"	"Male"	"M"	407	6545385	6.2
+	"Other synthetic narcotics"	"T40.4"	"Louisiana"	"22"	"45-54 years"	"45-54"	"Female"	"F"	115	6912058	1.7
+	"Other synthetic narcotics"	"T40.4"	"Louisiana"	"22"	"45-54 years"	"45-54"	"Male"	"M"	238	6585760	3.6
+	"Other synthetic narcotics"	"T40.4"	"Louisiana"	"22"	"55-64 years"	"55-64"	"Female"	"F"	78	5888421	1.3
+	"Other synthetic narcotics"	"T40.4"	"Louisiana"	"22"	"55-64 years"	"55-64"	"Male"	"M"	136	5417652	2.5
+	"Other synthetic narcotics"	"T40.4"	"Louisiana"	"22"	"65-74 years"	"65-74"	"Female"	"F"	13	4011430	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"Louisiana"	"22"	"65-74 years"	"65-74"	"Male"	"M"	22	3374581	0.7
+	"Other synthetic narcotics"	"T40.4"	"Maine"	"23"	"15-24 years"	"15-24"	"Female"	"F"	39	1758880	2.2
+	"Other synthetic narcotics"	"T40.4"	"Maine"	"23"	"15-24 years"	"15-24"	"Male"	"M"	82	1846031	4.4
+	"Other synthetic narcotics"	"T40.4"	"Maine"	"23"	"25-34 years"	"25-34"	"Female"	"F"	126	1682997	7.5
+	"Other synthetic narcotics"	"T40.4"	"Maine"	"23"	"25-34 years"	"25-34"	"Male"	"M"	380	1656761	22.9
+	"Other synthetic narcotics"	"T40.4"	"Maine"	"23"	"35-44 years"	"35-44"	"Female"	"F"	125	1996449	6.3
+	"Other synthetic narcotics"	"T40.4"	"Maine"	"23"	"35-44 years"	"35-44"	"Male"	"M"	381	1927034	19.8
+	"Other synthetic narcotics"	"T40.4"	"Maine"	"23"	"45-54 years"	"45-54"	"Female"	"F"	103	2261294	4.6
+	"Other synthetic narcotics"	"T40.4"	"Maine"	"23"	"45-54 years"	"45-54"	"Male"	"M"	267	2181212	12.2
+	"Other synthetic narcotics"	"T40.4"	"Maine"	"23"	"55-64 years"	"55-64"	"Female"	"F"	53	2018892	2.6
+	"Other synthetic narcotics"	"T40.4"	"Maine"	"23"	"55-64 years"	"55-64"	"Male"	"M"	129	1925351	6.7
+	"Other synthetic narcotics"	"T40.4"	"Maine"	"23"	"65-74 years"	"65-74"	"Male"	"M"	11	1277218	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"Maryland"	"24"	"15-24 years"	"15-24"	"Female"	"F"	171	8210417	2.1
+	"Other synthetic narcotics"	"T40.4"	"Maryland"	"24"	"15-24 years"	"15-24"	"Male"	"M"	469	8515036	5.5
+	"Other synthetic narcotics"	"T40.4"	"Maryland"	"24"	"25-34 years"	"25-34"	"Female"	"F"	652	8694708	7.5
+	"Other synthetic narcotics"	"T40.4"	"Maryland"	"24"	"25-34 years"	"25-34"	"Male"	"M"	1777	8385501	21.2
+	"Other synthetic narcotics"	"T40.4"	"Maryland"	"24"	"35-44 years"	"35-44"	"Female"	"F"	592	9426447	6.3
+	"Other synthetic narcotics"	"T40.4"	"Maryland"	"24"	"35-44 years"	"35-44"	"Male"	"M"	1541	8828335	17.5
+	"Other synthetic narcotics"	"T40.4"	"Maryland"	"24"	"45-54 years"	"45-54"	"Female"	"F"	642	9624028	6.7
+	"Other synthetic narcotics"	"T40.4"	"Maryland"	"24"	"45-54 years"	"45-54"	"Male"	"M"	1707	8877606	19.2
+	"Other synthetic narcotics"	"T40.4"	"Maryland"	"24"	"55-64 years"	"55-64"	"Female"	"F"	503	7752508	6.5
+	"Other synthetic narcotics"	"T40.4"	"Maryland"	"24"	"55-64 years"	"55-64"	"Male"	"M"	1375	6999763	19.6
+	"Other synthetic narcotics"	"T40.4"	"Maryland"	"24"	"65-74 years"	"65-74"	"Female"	"F"	58	4948559	1.2
+	"Other synthetic narcotics"	"T40.4"	"Maryland"	"24"	"65-74 years"	"65-74"	"Male"	"M"	269	4139339	6.5
+	"Other synthetic narcotics"	"T40.4"	"Maryland"	"24"	"75-84 years"	"75-84"	"Male"	"M"	12	2100107	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"Massachusetts"	"25"	"15-24 years"	"15-24"	"Female"	"F"	194	9985048	1.9
+	"Other synthetic narcotics"	"T40.4"	"Massachusetts"	"25"	"15-24 years"	"15-24"	"Male"	"M"	543	10044231	5.4
+	"Other synthetic narcotics"	"T40.4"	"Massachusetts"	"25"	"25-34 years"	"25-34"	"Female"	"F"	829	10000986	8.3
+	"Other synthetic narcotics"	"T40.4"	"Massachusetts"	"25"	"25-34 years"	"25-34"	"Male"	"M"	2522	9829264	25.7
+	"Other synthetic narcotics"	"T40.4"	"Massachusetts"	"25"	"35-44 years"	"35-44"	"Female"	"F"	696	10386100	6.7
+	"Other synthetic narcotics"	"T40.4"	"Massachusetts"	"25"	"35-44 years"	"35-44"	"Male"	"M"	2211	9983990	22.1
+	"Other synthetic narcotics"	"T40.4"	"Massachusetts"	"25"	"45-54 years"	"45-54"	"Female"	"F"	687	10729333	6.4
+	"Other synthetic narcotics"	"T40.4"	"Massachusetts"	"25"	"45-54 years"	"45-54"	"Male"	"M"	1710	10163254	16.8
+	"Other synthetic narcotics"	"T40.4"	"Massachusetts"	"25"	"55-64 years"	"55-64"	"Female"	"F"	357	8863764	4.0
+	"Other synthetic narcotics"	"T40.4"	"Massachusetts"	"25"	"55-64 years"	"55-64"	"Male"	"M"	979	8151130	12.0
+	"Other synthetic narcotics"	"T40.4"	"Massachusetts"	"25"	"65-74 years"	"65-74"	"Female"	"F"	53	5976580	0.9
+	"Other synthetic narcotics"	"T40.4"	"Massachusetts"	"25"	"65-74 years"	"65-74"	"Male"	"M"	142	5032799	2.8
+	"Other synthetic narcotics"	"T40.4"	"Massachusetts"	"25"	"75-84 years"	"75-84"	"Female"	"F"	13	4083897	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"Michigan"	"26"	"15-24 years"	"15-24"	"Female"	"F"	214	15050340	1.4
+	"Other synthetic narcotics"	"T40.4"	"Michigan"	"26"	"15-24 years"	"15-24"	"Male"	"M"	446	15664093	2.8
+	"Other synthetic narcotics"	"T40.4"	"Michigan"	"26"	"25-34 years"	"25-34"	"Female"	"F"	773	13689514	5.6
+	"Other synthetic narcotics"	"T40.4"	"Michigan"	"26"	"25-34 years"	"25-34"	"Male"	"M"	1659	13808309	12.0
+	"Other synthetic narcotics"	"T40.4"	"Michigan"	"26"	"35-44 years"	"35-44"	"Female"	"F"	680	14817422	4.6
+	"Other synthetic narcotics"	"T40.4"	"Michigan"	"26"	"35-44 years"	"35-44"	"Male"	"M"	1486	14615681	10.2
+	"Other synthetic narcotics"	"T40.4"	"Michigan"	"26"	"45-54 years"	"45-54"	"Female"	"F"	674	15807343	4.3
+	"Other synthetic narcotics"	"T40.4"	"Michigan"	"26"	"45-54 years"	"45-54"	"Male"	"M"	1257	15384473	8.2
+	"Other synthetic narcotics"	"T40.4"	"Michigan"	"26"	"55-64 years"	"55-64"	"Female"	"F"	430	13476474	3.2
+	"Other synthetic narcotics"	"T40.4"	"Michigan"	"26"	"55-64 years"	"55-64"	"Male"	"M"	899	12740060	7.1
+	"Other synthetic narcotics"	"T40.4"	"Michigan"	"26"	"65-74 years"	"65-74"	"Female"	"F"	78	9115113	0.9
+	"Other synthetic narcotics"	"T40.4"	"Michigan"	"26"	"65-74 years"	"65-74"	"Male"	"M"	256	7965602	3.2
+	"Other synthetic narcotics"	"T40.4"	"Michigan"	"26"	"75-84 years"	"75-84"	"Male"	"M"	15	4205607	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"Minnesota"	"27"	"15-24 years"	"15-24"	"Female"	"F"	83	7814577	1.1
+	"Other synthetic narcotics"	"T40.4"	"Minnesota"	"27"	"15-24 years"	"15-24"	"Male"	"M"	201	8127039	2.5
+	"Other synthetic narcotics"	"T40.4"	"Minnesota"	"27"	"25-34 years"	"25-34"	"Female"	"F"	142	7675375	1.9
+	"Other synthetic narcotics"	"T40.4"	"Minnesota"	"27"	"25-34 years"	"25-34"	"Male"	"M"	389	7930788	4.9
+	"Other synthetic narcotics"	"T40.4"	"Minnesota"	"27"	"35-44 years"	"35-44"	"Female"	"F"	139	7958313	1.7
+	"Other synthetic narcotics"	"T40.4"	"Minnesota"	"27"	"35-44 years"	"35-44"	"Male"	"M"	233	8121435	2.9
+	"Other synthetic narcotics"	"T40.4"	"Minnesota"	"27"	"45-54 years"	"45-54"	"Female"	"F"	152	8125226	1.9
+	"Other synthetic narcotics"	"T40.4"	"Minnesota"	"27"	"45-54 years"	"45-54"	"Male"	"M"	230	8172643	2.8
+	"Other synthetic narcotics"	"T40.4"	"Minnesota"	"27"	"55-64 years"	"55-64"	"Female"	"F"	75	6706493	1.1
+	"Other synthetic narcotics"	"T40.4"	"Minnesota"	"27"	"55-64 years"	"55-64"	"Male"	"M"	127	6569317	1.9
+	"Other synthetic narcotics"	"T40.4"	"Minnesota"	"27"	"65-74 years"	"65-74"	"Female"	"F"	15	4386159	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"Minnesota"	"27"	"65-74 years"	"65-74"	"Male"	"M"	18	3977764	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"Mississippi"	"28"	"15-24 years"	"15-24"	"Female"	"F"	17	4711558	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"Mississippi"	"28"	"15-24 years"	"15-24"	"Male"	"M"	59	4837508	1.2
+	"Other synthetic narcotics"	"T40.4"	"Mississippi"	"28"	"25-34 years"	"25-34"	"Female"	"F"	75	4297696	1.7
+	"Other synthetic narcotics"	"T40.4"	"Mississippi"	"28"	"25-34 years"	"25-34"	"Male"	"M"	164	4158162	3.9
+	"Other synthetic narcotics"	"T40.4"	"Mississippi"	"28"	"35-44 years"	"35-44"	"Female"	"F"	88	4360537	2.0
+	"Other synthetic narcotics"	"T40.4"	"Mississippi"	"28"	"35-44 years"	"35-44"	"Male"	"M"	162	4125560	3.9
+	"Other synthetic narcotics"	"T40.4"	"Mississippi"	"28"	"45-54 years"	"45-54"	"Female"	"F"	94	4415360	2.1
+	"Other synthetic narcotics"	"T40.4"	"Mississippi"	"28"	"45-54 years"	"45-54"	"Male"	"M"	122	4144228	2.9
+	"Other synthetic narcotics"	"T40.4"	"Mississippi"	"28"	"55-64 years"	"55-64"	"Female"	"F"	49	3801367	1.3
+	"Other synthetic narcotics"	"T40.4"	"Mississippi"	"28"	"55-64 years"	"55-64"	"Male"	"M"	66	3464732	1.9
+	"Other synthetic narcotics"	"T40.4"	"Mississippi"	"28"	"65-74 years"	"65-74"	"Female"	"F"	11	2693545	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"Mississippi"	"28"	"65-74 years"	"65-74"	"Male"	"M"	11	2259216	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"Missouri"	"29"	"15-24 years"	"15-24"	"Female"	"F"	183	8869430	2.1
+	"Other synthetic narcotics"	"T40.4"	"Missouri"	"29"	"15-24 years"	"15-24"	"Male"	"M"	394	9179332	4.3
+	"Other synthetic narcotics"	"T40.4"	"Missouri"	"29"	"25-34 years"	"25-34"	"Female"	"F"	458	8501552	5.4
+	"Other synthetic narcotics"	"T40.4"	"Missouri"	"29"	"25-34 years"	"25-34"	"Male"	"M"	1034	8489411	12.2
+	"Other synthetic narcotics"	"T40.4"	"Missouri"	"29"	"35-44 years"	"35-44"	"Female"	"F"	428	8708140	4.9
+	"Other synthetic narcotics"	"T40.4"	"Missouri"	"29"	"35-44 years"	"35-44"	"Male"	"M"	989	8595058	11.5
+	"Other synthetic narcotics"	"T40.4"	"Missouri"	"29"	"45-54 years"	"45-54"	"Female"	"F"	352	9070951	3.9
+	"Other synthetic narcotics"	"T40.4"	"Missouri"	"29"	"45-54 years"	"45-54"	"Male"	"M"	668	8773789	7.6
+	"Other synthetic narcotics"	"T40.4"	"Missouri"	"29"	"55-64 years"	"55-64"	"Female"	"F"	195	7923810	2.5
+	"Other synthetic narcotics"	"T40.4"	"Missouri"	"29"	"55-64 years"	"55-64"	"Male"	"M"	334	7361169	4.5
+	"Other synthetic narcotics"	"T40.4"	"Missouri"	"29"	"65-74 years"	"65-74"	"Female"	"F"	32	5573508	0.6
+	"Other synthetic narcotics"	"T40.4"	"Missouri"	"29"	"65-74 years"	"65-74"	"Male"	"M"	90	4816205	1.9
+	"Other synthetic narcotics"	"T40.4"	"Montana"	"30"	"15-24 years"	"15-24"	"Male"	"M"	18	1567714	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"Montana"	"30"	"25-34 years"	"25-34"	"Female"	"F"	20	1276495	1.6
+	"Other synthetic narcotics"	"T40.4"	"Montana"	"30"	"25-34 years"	"25-34"	"Male"	"M"	36	1345401	2.7
+	"Other synthetic narcotics"	"T40.4"	"Montana"	"30"	"35-44 years"	"35-44"	"Female"	"F"	29	1351922	2.1
+	"Other synthetic narcotics"	"T40.4"	"Montana"	"30"	"35-44 years"	"35-44"	"Male"	"M"	33	1371300	2.4
+	"Other synthetic narcotics"	"T40.4"	"Montana"	"30"	"45-54 years"	"45-54"	"Female"	"F"	26	1523193	1.7
+	"Other synthetic narcotics"	"T40.4"	"Montana"	"30"	"45-54 years"	"45-54"	"Male"	"M"	21	1517705	1.4
+	"Other synthetic narcotics"	"T40.4"	"Montana"	"30"	"55-64 years"	"55-64"	"Female"	"F"	19	1405860	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"Nebraska"	"31"	"15-24 years"	"15-24"	"Male"	"M"	30	2972539	1.0
+	"Other synthetic narcotics"	"T40.4"	"Nebraska"	"31"	"25-34 years"	"25-34"	"Female"	"F"	27	2566340	1.1
+	"Other synthetic narcotics"	"T40.4"	"Nebraska"	"31"	"25-34 years"	"25-34"	"Male"	"M"	59	2688716	2.2
+	"Other synthetic narcotics"	"T40.4"	"Nebraska"	"31"	"35-44 years"	"35-44"	"Female"	"F"	32	2576949	1.2
+	"Other synthetic narcotics"	"T40.4"	"Nebraska"	"31"	"35-44 years"	"35-44"	"Male"	"M"	23	2640292	0.9
+	"Other synthetic narcotics"	"T40.4"	"Nebraska"	"31"	"45-54 years"	"45-54"	"Female"	"F"	42	2640193	1.6
+	"Other synthetic narcotics"	"T40.4"	"Nebraska"	"31"	"45-54 years"	"45-54"	"Male"	"M"	30	2648395	1.1
+	"Other synthetic narcotics"	"T40.4"	"Nebraska"	"31"	"55-64 years"	"55-64"	"Female"	"F"	27	2248643	1.2
+	"Other synthetic narcotics"	"T40.4"	"Nebraska"	"31"	"55-64 years"	"55-64"	"Male"	"M"	23	2189578	1.1
+	"Other synthetic narcotics"	"T40.4"	"Nevada"	"32"	"15-24 years"	"15-24"	"Female"	"F"	40	3577516	1.1
+	"Other synthetic narcotics"	"T40.4"	"Nevada"	"32"	"15-24 years"	"15-24"	"Male"	"M"	117	3804981	3.1
+	"Other synthetic narcotics"	"T40.4"	"Nevada"	"32"	"25-34 years"	"25-34"	"Female"	"F"	68	4094911	1.7
+	"Other synthetic narcotics"	"T40.4"	"Nevada"	"32"	"25-34 years"	"25-34"	"Male"	"M"	145	4320839	3.4
+	"Other synthetic narcotics"	"T40.4"	"Nevada"	"32"	"35-44 years"	"35-44"	"Female"	"F"	93	4007094	2.3
+	"Other synthetic narcotics"	"T40.4"	"Nevada"	"32"	"35-44 years"	"35-44"	"Male"	"M"	117	4229824	2.8
+	"Other synthetic narcotics"	"T40.4"	"Nevada"	"32"	"45-54 years"	"45-54"	"Female"	"F"	136	3841428	3.5
+	"Other synthetic narcotics"	"T40.4"	"Nevada"	"32"	"45-54 years"	"45-54"	"Male"	"M"	130	3948967	3.3
+	"Other synthetic narcotics"	"T40.4"	"Nevada"	"32"	"55-64 years"	"55-64"	"Female"	"F"	82	3358124	2.4
+	"Other synthetic narcotics"	"T40.4"	"Nevada"	"32"	"55-64 years"	"55-64"	"Male"	"M"	78	3273674	2.4
+	"Other synthetic narcotics"	"T40.4"	"Nevada"	"32"	"65-74 years"	"65-74"	"Female"	"F"	31	2343401	1.3
+	"Other synthetic narcotics"	"T40.4"	"Nevada"	"32"	"65-74 years"	"65-74"	"Male"	"M"	23	2234689	1.0
+	"Other synthetic narcotics"	"T40.4"	"New Hampshire"	"33"	"15-24 years"	"15-24"	"Female"	"F"	68	1878171	3.6
+	"Other synthetic narcotics"	"T40.4"	"New Hampshire"	"33"	"15-24 years"	"15-24"	"Male"	"M"	178	1944980	9.2
+	"Other synthetic narcotics"	"T40.4"	"New Hampshire"	"33"	"25-34 years"	"25-34"	"Female"	"F"	206	1684298	12.2
+	"Other synthetic narcotics"	"T40.4"	"New Hampshire"	"33"	"25-34 years"	"25-34"	"Male"	"M"	589	1717136	34.3
+	"Other synthetic narcotics"	"T40.4"	"New Hampshire"	"33"	"35-44 years"	"35-44"	"Female"	"F"	181	2049402	8.8
+	"Other synthetic narcotics"	"T40.4"	"New Hampshire"	"33"	"35-44 years"	"35-44"	"Male"	"M"	460	2019682	22.8
+	"Other synthetic narcotics"	"T40.4"	"New Hampshire"	"33"	"45-54 years"	"45-54"	"Female"	"F"	155	2269379	6.8
+	"Other synthetic narcotics"	"T40.4"	"New Hampshire"	"33"	"45-54 years"	"45-54"	"Male"	"M"	354	2235651	15.8
+	"Other synthetic narcotics"	"T40.4"	"New Hampshire"	"33"	"55-64 years"	"55-64"	"Female"	"F"	61	1889424	3.2
+	"Other synthetic narcotics"	"T40.4"	"New Hampshire"	"33"	"55-64 years"	"55-64"	"Male"	"M"	150	1841404	8.1
+	"Other synthetic narcotics"	"T40.4"	"New Hampshire"	"33"	"65-74 years"	"65-74"	"Female"	"F"	14	1208349	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"New Hampshire"	"33"	"65-74 years"	"65-74"	"Male"	"M"	19	1114990	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"New Jersey"	"34"	"15-24 years"	"15-24"	"Female"	"F"	180	11773585	1.5
+	"Other synthetic narcotics"	"T40.4"	"New Jersey"	"34"	"15-24 years"	"15-24"	"Male"	"M"	531	12464709	4.3
+	"Other synthetic narcotics"	"T40.4"	"New Jersey"	"34"	"25-34 years"	"25-34"	"Female"	"F"	635	12484524	5.1
+	"Other synthetic narcotics"	"T40.4"	"New Jersey"	"34"	"25-34 years"	"25-34"	"Male"	"M"	2096	12584068	16.7
+	"Other synthetic narcotics"	"T40.4"	"New Jersey"	"34"	"35-44 years"	"35-44"	"Female"	"F"	532	14224622	3.7
+	"Other synthetic narcotics"	"T40.4"	"New Jersey"	"34"	"35-44 years"	"35-44"	"Male"	"M"	1739	13817716	12.6
+	"Other synthetic narcotics"	"T40.4"	"New Jersey"	"34"	"45-54 years"	"45-54"	"Female"	"F"	612	14458193	4.2
+	"Other synthetic narcotics"	"T40.4"	"New Jersey"	"34"	"45-54 years"	"45-54"	"Male"	"M"	1648	13737218	12.0
+	"Other synthetic narcotics"	"T40.4"	"New Jersey"	"34"	"55-64 years"	"55-64"	"Female"	"F"	383	11710007	3.3
+	"Other synthetic narcotics"	"T40.4"	"New Jersey"	"34"	"55-64 years"	"55-64"	"Male"	"M"	988	10727501	9.2
+	"Other synthetic narcotics"	"T40.4"	"New Jersey"	"34"	"65-74 years"	"65-74"	"Female"	"F"	49	7895856	0.6
+	"Other synthetic narcotics"	"T40.4"	"New Jersey"	"34"	"65-74 years"	"65-74"	"Male"	"M"	198	6545826	3.0
+	"Other synthetic narcotics"	"T40.4"	"New Jersey"	"34"	"75-84 years"	"75-84"	"Male"	"M"	11	3614441	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"New Mexico"	"35"	"15-24 years"	"15-24"	"Female"	"F"	32	3050381	1.0
+	"Other synthetic narcotics"	"T40.4"	"New Mexico"	"35"	"15-24 years"	"15-24"	"Male"	"M"	95	3239060	2.9
+	"Other synthetic narcotics"	"T40.4"	"New Mexico"	"35"	"25-34 years"	"25-34"	"Female"	"F"	96	2814089	3.4
+	"Other synthetic narcotics"	"T40.4"	"New Mexico"	"35"	"25-34 years"	"25-34"	"Male"	"M"	202	2920031	6.9
+	"Other synthetic narcotics"	"T40.4"	"New Mexico"	"35"	"35-44 years"	"35-44"	"Female"	"F"	103	2843123	3.6
+	"Other synthetic narcotics"	"T40.4"	"New Mexico"	"35"	"35-44 years"	"35-44"	"Male"	"M"	210	2811085	7.5
+	"Other synthetic narcotics"	"T40.4"	"New Mexico"	"35"	"45-54 years"	"45-54"	"Female"	"F"	120	2977397	4.0
+	"Other synthetic narcotics"	"T40.4"	"New Mexico"	"35"	"45-54 years"	"45-54"	"Male"	"M"	105	2849395	3.7
+	"Other synthetic narcotics"	"T40.4"	"New Mexico"	"35"	"55-64 years"	"55-64"	"Female"	"F"	69	2675847	2.6
+	"Other synthetic narcotics"	"T40.4"	"New Mexico"	"35"	"55-64 years"	"55-64"	"Male"	"M"	84	2471066	3.4
+	"Other synthetic narcotics"	"T40.4"	"New Mexico"	"35"	"65-74 years"	"65-74"	"Female"	"F"	20	1876138	1.1
+	"Other synthetic narcotics"	"T40.4"	"New Mexico"	"35"	"65-74 years"	"65-74"	"Male"	"M"	10	1679681	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"New York"	"36"	"15-24 years"	"15-24"	"Female"	"F"	352	28615223	1.2
+	"Other synthetic narcotics"	"T40.4"	"New York"	"36"	"15-24 years"	"15-24"	"Male"	"M"	885	29460994	3.0
+	"Other synthetic narcotics"	"T40.4"	"New York"	"36"	"25-34 years"	"25-34"	"Female"	"F"	957	30427834	3.1
+	"Other synthetic narcotics"	"T40.4"	"New York"	"36"	"25-34 years"	"25-34"	"Male"	"M"	3046	29817959	10.2
+	"Other synthetic narcotics"	"T40.4"	"New York"	"36"	"35-44 years"	"35-44"	"Female"	"F"	837	30346563	2.8
+	"Other synthetic narcotics"	"T40.4"	"New York"	"36"	"35-44 years"	"35-44"	"Male"	"M"	2461	29262559	8.4
+	"Other synthetic narcotics"	"T40.4"	"New York"	"36"	"45-54 years"	"45-54"	"Female"	"F"	858	30695094	2.8
+	"Other synthetic narcotics"	"T40.4"	"New York"	"36"	"45-54 years"	"45-54"	"Male"	"M"	2338	28872148	8.1
+	"Other synthetic narcotics"	"T40.4"	"New York"	"36"	"55-64 years"	"55-64"	"Female"	"F"	586	25763730	2.3
+	"Other synthetic narcotics"	"T40.4"	"New York"	"36"	"55-64 years"	"55-64"	"Male"	"M"	1636	23191134	7.1
+	"Other synthetic narcotics"	"T40.4"	"New York"	"36"	"65-74 years"	"65-74"	"Female"	"F"	123	17643128	0.7
+	"Other synthetic narcotics"	"T40.4"	"New York"	"36"	"65-74 years"	"65-74"	"Male"	"M"	342	14482755	2.4
+	"Other synthetic narcotics"	"T40.4"	"New York"	"36"	"75-84 years"	"75-84"	"Female"	"F"	20	11713527	0.2
+	"Other synthetic narcotics"	"T40.4"	"New York"	"36"	"75-84 years"	"75-84"	"Male"	"M"	31	7908558	0.4
+	"Other synthetic narcotics"	"T40.4"	"North Carolina"	"37"	"15-24 years"	"15-24"	"Female"	"F"	263	13703562	1.9
+	"Other synthetic narcotics"	"T40.4"	"North Carolina"	"37"	"15-24 years"	"15-24"	"Male"	"M"	658	14529413	4.5
+	"Other synthetic narcotics"	"T40.4"	"North Carolina"	"37"	"25-34 years"	"25-34"	"Female"	"F"	799	14007056	5.7
+	"Other synthetic narcotics"	"T40.4"	"North Carolina"	"37"	"25-34 years"	"25-34"	"Male"	"M"	1991	13868016	14.4
+	"Other synthetic narcotics"	"T40.4"	"North Carolina"	"37"	"35-44 years"	"35-44"	"Female"	"F"	729	14620410	5.0
+	"Other synthetic narcotics"	"T40.4"	"North Carolina"	"37"	"35-44 years"	"35-44"	"Male"	"M"	1653	14146800	11.7
+	"Other synthetic narcotics"	"T40.4"	"North Carolina"	"37"	"45-54 years"	"45-54"	"Female"	"F"	704	14592841	4.8
+	"Other synthetic narcotics"	"T40.4"	"North Carolina"	"37"	"45-54 years"	"45-54"	"Male"	"M"	1085	13826559	7.8
+	"Other synthetic narcotics"	"T40.4"	"North Carolina"	"37"	"55-64 years"	"55-64"	"Female"	"F"	330	12510596	2.6
+	"Other synthetic narcotics"	"T40.4"	"North Carolina"	"37"	"55-64 years"	"55-64"	"Male"	"M"	494	11322207	4.4
+	"Other synthetic narcotics"	"T40.4"	"North Carolina"	"37"	"65-74 years"	"65-74"	"Female"	"F"	52	8827276	0.6
+	"Other synthetic narcotics"	"T40.4"	"North Carolina"	"37"	"65-74 years"	"65-74"	"Male"	"M"	87	7438034	1.2
+	"Other synthetic narcotics"	"T40.4"	"North Carolina"	"37"	"75-84 years"	"75-84"	"Female"	"F"	19	5244294	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"North Dakota"	"38"	"15-24 years"	"15-24"	"Male"	"M"	22	1292495	1.7
+	"Other synthetic narcotics"	"T40.4"	"North Dakota"	"38"	"25-34 years"	"25-34"	"Female"	"F"	12	947882	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"North Dakota"	"38"	"25-34 years"	"25-34"	"Male"	"M"	27	1080593	2.5
+	"Other synthetic narcotics"	"T40.4"	"North Dakota"	"38"	"35-44 years"	"35-44"	"Female"	"F"	13	907104	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"North Dakota"	"38"	"35-44 years"	"35-44"	"Male"	"M"	22	970250	2.3
+	"Other synthetic narcotics"	"T40.4"	"North Dakota"	"38"	"45-54 years"	"45-54"	"Female"	"F"	15	969177	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"North Dakota"	"38"	"45-54 years"	"45-54"	"Male"	"M"	13	1010505	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"Ohio"	"39"	"1-4 years"	"1-4"	"Male"	"M"	10	6480422	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"Ohio"	"39"	"15-24 years"	"15-24"	"Female"	"F"	483	16947514	2.8
+	"Other synthetic narcotics"	"T40.4"	"Ohio"	"39"	"15-24 years"	"15-24"	"Male"	"M"	969	17490168	5.5
+	"Other synthetic narcotics"	"T40.4"	"Ohio"	"39"	"25-34 years"	"25-34"	"Female"	"F"	1757	16194852	10.8
+	"Other synthetic narcotics"	"T40.4"	"Ohio"	"39"	"25-34 years"	"25-34"	"Male"	"M"	3869	16171711	23.9
+	"Other synthetic narcotics"	"T40.4"	"Ohio"	"39"	"35-44 years"	"35-44"	"Female"	"F"	1645	17129626	9.6
+	"Other synthetic narcotics"	"T40.4"	"Ohio"	"39"	"35-44 years"	"35-44"	"Male"	"M"	3697	16824792	22.0
+	"Other synthetic narcotics"	"T40.4"	"Ohio"	"39"	"45-54 years"	"45-54"	"Female"	"F"	1288	18202121	7.1
+	"Other synthetic narcotics"	"T40.4"	"Ohio"	"39"	"45-54 years"	"45-54"	"Male"	"M"	2567	17607333	14.6
+	"Other synthetic narcotics"	"T40.4"	"Ohio"	"39"	"55-64 years"	"55-64"	"Female"	"F"	773	15661201	4.9
+	"Other synthetic narcotics"	"T40.4"	"Ohio"	"39"	"55-64 years"	"55-64"	"Male"	"M"	1612	14618232	11.0
+	"Other synthetic narcotics"	"T40.4"	"Ohio"	"39"	"65-74 years"	"65-74"	"Female"	"F"	103	10863663	0.9
+	"Other synthetic narcotics"	"T40.4"	"Ohio"	"39"	"65-74 years"	"65-74"	"Male"	"M"	299	9250872	3.2
+	"Other synthetic narcotics"	"T40.4"	"Ohio"	"39"	"75-84 years"	"75-84"	"Male"	"M"	13	4995043	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"Oklahoma"	"40"	"15-24 years"	"15-24"	"Female"	"F"	28	5707712	0.5
+	"Other synthetic narcotics"	"T40.4"	"Oklahoma"	"40"	"15-24 years"	"15-24"	"Male"	"M"	96	6095652	1.6
+	"Other synthetic narcotics"	"T40.4"	"Oklahoma"	"40"	"25-34 years"	"25-34"	"Female"	"F"	113	5377979	2.1
+	"Other synthetic narcotics"	"T40.4"	"Oklahoma"	"40"	"25-34 years"	"25-34"	"Male"	"M"	221	5559363	4.0
+	"Other synthetic narcotics"	"T40.4"	"Oklahoma"	"40"	"35-44 years"	"35-44"	"Female"	"F"	177	5308434	3.3
+	"Other synthetic narcotics"	"T40.4"	"Oklahoma"	"40"	"35-44 years"	"35-44"	"Male"	"M"	237	5346365	4.4
+	"Other synthetic narcotics"	"T40.4"	"Oklahoma"	"40"	"45-54 years"	"45-54"	"Female"	"F"	242	5420510	4.5
+	"Other synthetic narcotics"	"T40.4"	"Oklahoma"	"40"	"45-54 years"	"45-54"	"Male"	"M"	190	5308917	3.6
+	"Other synthetic narcotics"	"T40.4"	"Oklahoma"	"40"	"55-64 years"	"55-64"	"Female"	"F"	165	4795744	3.4
+	"Other synthetic narcotics"	"T40.4"	"Oklahoma"	"40"	"55-64 years"	"55-64"	"Male"	"M"	89	4484461	2.0
+	"Other synthetic narcotics"	"T40.4"	"Oklahoma"	"40"	"65-74 years"	"65-74"	"Female"	"F"	41	3430156	1.2
+	"Other synthetic narcotics"	"T40.4"	"Oklahoma"	"40"	"65-74 years"	"65-74"	"Male"	"M"	19	2976991	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"Oklahoma"	"40"	"75-84 years"	"75-84"	"Female"	"F"	11	2146013	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"Oregon"	"41"	"15-24 years"	"15-24"	"Female"	"F"	18	5421812	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"Oregon"	"41"	"15-24 years"	"15-24"	"Male"	"M"	94	5665038	1.7
+	"Other synthetic narcotics"	"T40.4"	"Oregon"	"41"	"25-34 years"	"25-34"	"Female"	"F"	55	5668467	1.0
+	"Other synthetic narcotics"	"T40.4"	"Oregon"	"41"	"25-34 years"	"25-34"	"Male"	"M"	166	5876385	2.8
+	"Other synthetic narcotics"	"T40.4"	"Oregon"	"41"	"35-44 years"	"35-44"	"Female"	"F"	102	5676903	1.8
+	"Other synthetic narcotics"	"T40.4"	"Oregon"	"41"	"35-44 years"	"35-44"	"Male"	"M"	148	5788074	2.6
+	"Other synthetic narcotics"	"T40.4"	"Oregon"	"41"	"45-54 years"	"45-54"	"Female"	"F"	99	5837255	1.7
+	"Other synthetic narcotics"	"T40.4"	"Oregon"	"41"	"45-54 years"	"45-54"	"Male"	"M"	84	5743538	1.5
+	"Other synthetic narcotics"	"T40.4"	"Oregon"	"41"	"55-64 years"	"55-64"	"Female"	"F"	55	5245356	1.0
+	"Other synthetic narcotics"	"T40.4"	"Oregon"	"41"	"55-64 years"	"55-64"	"Male"	"M"	67	4959679	1.4
+	"Other synthetic narcotics"	"T40.4"	"Oregon"	"41"	"65-74 years"	"65-74"	"Female"	"F"	19	3622318	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"Oregon"	"41"	"65-74 years"	"65-74"	"Male"	"M"	10	3279691	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"Pennsylvania"	"42"	"15-24 years"	"15-24"	"Female"	"F"	359	18276066	2.0
+	"Other synthetic narcotics"	"T40.4"	"Pennsylvania"	"42"	"15-24 years"	"15-24"	"Male"	"M"	793	18894168	4.2
+	"Other synthetic narcotics"	"T40.4"	"Pennsylvania"	"42"	"25-34 years"	"25-34"	"Female"	"F"	1128	17162621	6.6
+	"Other synthetic narcotics"	"T40.4"	"Pennsylvania"	"42"	"25-34 years"	"25-34"	"Male"	"M"	3064	17364516	17.6
+	"Other synthetic narcotics"	"T40.4"	"Pennsylvania"	"42"	"35-44 years"	"35-44"	"Female"	"F"	994	18548198	5.4
+	"Other synthetic narcotics"	"T40.4"	"Pennsylvania"	"42"	"35-44 years"	"35-44"	"Male"	"M"	2643	18257642	14.5
+	"Other synthetic narcotics"	"T40.4"	"Pennsylvania"	"42"	"45-54 years"	"45-54"	"Female"	"F"	859	20115268	4.3
+	"Other synthetic narcotics"	"T40.4"	"Pennsylvania"	"42"	"45-54 years"	"45-54"	"Male"	"M"	1883	19520001	9.6
+	"Other synthetic narcotics"	"T40.4"	"Pennsylvania"	"42"	"55-64 years"	"55-64"	"Female"	"F"	482	17526095	2.8
+	"Other synthetic narcotics"	"T40.4"	"Pennsylvania"	"42"	"55-64 years"	"55-64"	"Male"	"M"	1190	16412486	7.3
+	"Other synthetic narcotics"	"T40.4"	"Pennsylvania"	"42"	"65-74 years"	"65-74"	"Female"	"F"	71	12625594	0.6
+	"Other synthetic narcotics"	"T40.4"	"Pennsylvania"	"42"	"65-74 years"	"65-74"	"Male"	"M"	219	10736959	2.0
+	"Other synthetic narcotics"	"T40.4"	"Pennsylvania"	"42"	"75-84 years"	"75-84"	"Female"	"F"	12	9033840	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"Pennsylvania"	"42"	"75-84 years"	"75-84"	"Male"	"M"	17	6187722	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"Rhode Island"	"44"	"15-24 years"	"15-24"	"Female"	"F"	30	1699336	1.8
+	"Other synthetic narcotics"	"T40.4"	"Rhode Island"	"44"	"15-24 years"	"15-24"	"Male"	"M"	84	1714929	4.9
+	"Other synthetic narcotics"	"T40.4"	"Rhode Island"	"44"	"25-34 years"	"25-34"	"Female"	"F"	106	1504345	7.0
+	"Other synthetic narcotics"	"T40.4"	"Rhode Island"	"44"	"25-34 years"	"25-34"	"Male"	"M"	305	1499459	20.3
+	"Other synthetic narcotics"	"T40.4"	"Rhode Island"	"44"	"35-44 years"	"35-44"	"Female"	"F"	93	1608489	5.8
+	"Other synthetic narcotics"	"T40.4"	"Rhode Island"	"44"	"35-44 years"	"35-44"	"Male"	"M"	271	1549931	17.5
+	"Other synthetic narcotics"	"T40.4"	"Rhode Island"	"44"	"45-54 years"	"45-54"	"Female"	"F"	95	1713094	5.5
+	"Other synthetic narcotics"	"T40.4"	"Rhode Island"	"44"	"45-54 years"	"45-54"	"Male"	"M"	238	1610851	14.8
+	"Other synthetic narcotics"	"T40.4"	"Rhode Island"	"44"	"55-64 years"	"55-64"	"Female"	"F"	54	1430559	3.8
+	"Other synthetic narcotics"	"T40.4"	"Rhode Island"	"44"	"55-64 years"	"55-64"	"Male"	"M"	134	1318805	10.2
+	"Other synthetic narcotics"	"T40.4"	"Rhode Island"	"44"	"65-74 years"	"65-74"	"Male"	"M"	23	820273	2.8
+	"Other synthetic narcotics"	"T40.4"	"South Carolina"	"45"	"15-24 years"	"15-24"	"Female"	"F"	103	6852606	1.5
+	"Other synthetic narcotics"	"T40.4"	"South Carolina"	"45"	"15-24 years"	"15-24"	"Male"	"M"	244	7172956	3.4
+	"Other synthetic narcotics"	"T40.4"	"South Carolina"	"45"	"25-34 years"	"25-34"	"Female"	"F"	266	6684145	4.0
+	"Other synthetic narcotics"	"T40.4"	"South Carolina"	"45"	"25-34 years"	"25-34"	"Male"	"M"	688	6566235	10.5
+	"Other synthetic narcotics"	"T40.4"	"South Carolina"	"45"	"35-44 years"	"35-44"	"Female"	"F"	309	6852314	4.5
+	"Other synthetic narcotics"	"T40.4"	"South Carolina"	"45"	"35-44 years"	"35-44"	"Male"	"M"	639	6570078	9.7
+	"Other synthetic narcotics"	"T40.4"	"South Carolina"	"45"	"45-54 years"	"45-54"	"Female"	"F"	321	7114029	4.5
+	"Other synthetic narcotics"	"T40.4"	"South Carolina"	"45"	"45-54 years"	"45-54"	"Male"	"M"	482	6636246	7.3
+	"Other synthetic narcotics"	"T40.4"	"South Carolina"	"45"	"55-64 years"	"55-64"	"Female"	"F"	200	6420086	3.1
+	"Other synthetic narcotics"	"T40.4"	"South Carolina"	"45"	"55-64 years"	"55-64"	"Male"	"M"	283	5741887	4.9
+	"Other synthetic narcotics"	"T40.4"	"South Carolina"	"45"	"65-74 years"	"65-74"	"Female"	"F"	48	4645136	1.0
+	"Other synthetic narcotics"	"T40.4"	"South Carolina"	"45"	"65-74 years"	"65-74"	"Male"	"M"	43	3980428	1.1
+	"Other synthetic narcotics"	"T40.4"	"South Carolina"	"45"	"75-84 years"	"75-84"	"Female"	"F"	10	2613668	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"South Dakota"	"46"	"15-24 years"	"15-24"	"Female"	"F"	10	1249272	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"South Dakota"	"46"	"15-24 years"	"15-24"	"Male"	"M"	19	1337663	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"South Dakota"	"46"	"25-34 years"	"25-34"	"Female"	"F"	24	1090103	2.2
+	"Other synthetic narcotics"	"T40.4"	"South Dakota"	"46"	"25-34 years"	"25-34"	"Male"	"M"	39	1166766	3.3
+	"Other synthetic narcotics"	"T40.4"	"South Dakota"	"46"	"35-44 years"	"35-44"	"Female"	"F"	22	1097835	2.0
+	"Other synthetic narcotics"	"T40.4"	"South Dakota"	"46"	"35-44 years"	"35-44"	"Male"	"M"	31	1143043	2.7
+	"Other synthetic narcotics"	"T40.4"	"South Dakota"	"46"	"45-54 years"	"45-54"	"Female"	"F"	17	1160839	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"South Dakota"	"46"	"45-54 years"	"45-54"	"Male"	"M"	17	1189457	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"Tennessee"	"47"	"15-24 years"	"15-24"	"Female"	"F"	178	9177916	1.9
+	"Other synthetic narcotics"	"T40.4"	"Tennessee"	"47"	"15-24 years"	"15-24"	"Male"	"M"	383	9449867	4.1
+	"Other synthetic narcotics"	"T40.4"	"Tennessee"	"47"	"25-34 years"	"25-34"	"Female"	"F"	604	9362548	6.5
+	"Other synthetic narcotics"	"T40.4"	"Tennessee"	"47"	"25-34 years"	"25-34"	"Male"	"M"	1214	9262051	13.1
+	"Other synthetic narcotics"	"T40.4"	"Tennessee"	"47"	"35-44 years"	"35-44"	"Female"	"F"	591	9626068	6.1
+	"Other synthetic narcotics"	"T40.4"	"Tennessee"	"47"	"35-44 years"	"35-44"	"Male"	"M"	1146	9366822	12.2
+	"Other synthetic narcotics"	"T40.4"	"Tennessee"	"47"	"45-54 years"	"45-54"	"Female"	"F"	545	9856013	5.5
+	"Other synthetic narcotics"	"T40.4"	"Tennessee"	"47"	"45-54 years"	"45-54"	"Male"	"M"	858	9379128	9.1
+	"Other synthetic narcotics"	"T40.4"	"Tennessee"	"47"	"55-64 years"	"55-64"	"Female"	"F"	278	8550427	3.3
+	"Other synthetic narcotics"	"T40.4"	"Tennessee"	"47"	"55-64 years"	"55-64"	"Male"	"M"	420	7854820	5.3
+	"Other synthetic narcotics"	"T40.4"	"Tennessee"	"47"	"65-74 years"	"65-74"	"Female"	"F"	52	6000857	0.9
+	"Other synthetic narcotics"	"T40.4"	"Tennessee"	"47"	"65-74 years"	"65-74"	"Male"	"M"	71	5156779	1.4
+	"Other synthetic narcotics"	"T40.4"	"Texas"	"48"	"15-24 years"	"15-24"	"Female"	"F"	127	39184836	0.3
+	"Other synthetic narcotics"	"T40.4"	"Texas"	"48"	"15-24 years"	"15-24"	"Male"	"M"	398	41650168	1.0
+	"Other synthetic narcotics"	"T40.4"	"Texas"	"48"	"25-34 years"	"25-34"	"Female"	"F"	302	39595957	0.8
+	"Other synthetic narcotics"	"T40.4"	"Texas"	"48"	"25-34 years"	"25-34"	"Male"	"M"	717	40681087	1.8
+	"Other synthetic narcotics"	"T40.4"	"Texas"	"48"	"35-44 years"	"35-44"	"Female"	"F"	394	38852203	1.0
+	"Other synthetic narcotics"	"T40.4"	"Texas"	"48"	"35-44 years"	"35-44"	"Male"	"M"	587	38853783	1.5
+	"Other synthetic narcotics"	"T40.4"	"Texas"	"48"	"45-54 years"	"45-54"	"Female"	"F"	527	36004945	1.5
+	"Other synthetic narcotics"	"T40.4"	"Texas"	"48"	"45-54 years"	"45-54"	"Male"	"M"	442	35373147	1.2
+	"Other synthetic narcotics"	"T40.4"	"Texas"	"48"	"55-64 years"	"55-64"	"Female"	"F"	311	28396814	1.1
+	"Other synthetic narcotics"	"T40.4"	"Texas"	"48"	"55-64 years"	"55-64"	"Male"	"M"	278	26676317	1.0
+	"Other synthetic narcotics"	"T40.4"	"Texas"	"48"	"65-74 years"	"65-74"	"Female"	"F"	113	18531133	0.6
+	"Other synthetic narcotics"	"T40.4"	"Texas"	"48"	"65-74 years"	"65-74"	"Male"	"M"	49	16084295	0.3
+	"Other synthetic narcotics"	"T40.4"	"Texas"	"48"	"75-84 years"	"75-84"	"Female"	"F"	20	10829072	0.2
+	"Other synthetic narcotics"	"T40.4"	"Texas"	"48"	"75-84 years"	"75-84"	"Male"	"M"	11	7881606	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"Utah"	"49"	"15-24 years"	"15-24"	"Female"	"F"	31	5063216	0.6
+	"Other synthetic narcotics"	"T40.4"	"Utah"	"49"	"15-24 years"	"15-24"	"Male"	"M"	58	5201379	1.1
+	"Other synthetic narcotics"	"T40.4"	"Utah"	"49"	"25-34 years"	"25-34"	"Female"	"F"	105	4444317	2.4
+	"Other synthetic narcotics"	"T40.4"	"Utah"	"49"	"25-34 years"	"25-34"	"Male"	"M"	161	4647008	3.5
+	"Other synthetic narcotics"	"T40.4"	"Utah"	"49"	"35-44 years"	"35-44"	"Female"	"F"	130	3784495	3.4
+	"Other synthetic narcotics"	"T40.4"	"Utah"	"49"	"35-44 years"	"35-44"	"Male"	"M"	148	3915934	3.8
+	"Other synthetic narcotics"	"T40.4"	"Utah"	"49"	"45-54 years"	"45-54"	"Female"	"F"	152	3221093	4.7
+	"Other synthetic narcotics"	"T40.4"	"Utah"	"49"	"45-54 years"	"45-54"	"Male"	"M"	116	3236903	3.6
+	"Other synthetic narcotics"	"T40.4"	"Utah"	"49"	"55-64 years"	"55-64"	"Female"	"F"	94	2580506	3.6
+	"Other synthetic narcotics"	"T40.4"	"Utah"	"49"	"55-64 years"	"55-64"	"Male"	"M"	78	2489407	3.1
+	"Other synthetic narcotics"	"T40.4"	"Utah"	"49"	"65-74 years"	"65-74"	"Female"	"F"	21	1702820	1.2
+	"Other synthetic narcotics"	"T40.4"	"Vermont"	"50"	"15-24 years"	"15-24"	"Female"	"F"	16	951748	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"Vermont"	"50"	"15-24 years"	"15-24"	"Male"	"M"	33	1010192	3.3
+	"Other synthetic narcotics"	"T40.4"	"Vermont"	"50"	"25-34 years"	"25-34"	"Female"	"F"	57	782513	7.3
+	"Other synthetic narcotics"	"T40.4"	"Vermont"	"50"	"25-34 years"	"25-34"	"Male"	"M"	159	783315	20.3
+	"Other synthetic narcotics"	"T40.4"	"Vermont"	"50"	"35-44 years"	"35-44"	"Female"	"F"	57	924121	6.2
+	"Other synthetic narcotics"	"T40.4"	"Vermont"	"50"	"35-44 years"	"35-44"	"Male"	"M"	123	895945	13.7
+	"Other synthetic narcotics"	"T40.4"	"Vermont"	"50"	"45-54 years"	"45-54"	"Female"	"F"	50	1057732	4.7
+	"Other synthetic narcotics"	"T40.4"	"Vermont"	"50"	"45-54 years"	"45-54"	"Male"	"M"	94	1021194	9.2
+	"Other synthetic narcotics"	"T40.4"	"Vermont"	"50"	"55-64 years"	"55-64"	"Female"	"F"	21	926291	2.3
+	"Other synthetic narcotics"	"T40.4"	"Vermont"	"50"	"55-64 years"	"55-64"	"Male"	"M"	38	899801	4.2
+	"Other synthetic narcotics"	"T40.4"	"Vermont"	"50"	"65-74 years"	"65-74"	"Male"	"M"	10	563738	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"Virginia"	"51"	"15-24 years"	"15-24"	"Female"	"F"	170	11651489	1.5
+	"Other synthetic narcotics"	"T40.4"	"Virginia"	"51"	"15-24 years"	"15-24"	"Male"	"M"	418	12336235	3.4
+	"Other synthetic narcotics"	"T40.4"	"Virginia"	"51"	"25-34 years"	"25-34"	"Female"	"F"	543	12003260	4.5
+	"Other synthetic narcotics"	"T40.4"	"Virginia"	"51"	"25-34 years"	"25-34"	"Male"	"M"	1323	12162483	10.9
+	"Other synthetic narcotics"	"T40.4"	"Virginia"	"51"	"35-44 years"	"35-44"	"Female"	"F"	581	12627520	4.6
+	"Other synthetic narcotics"	"T40.4"	"Virginia"	"51"	"35-44 years"	"35-44"	"Male"	"M"	1183	12353961	9.6
+	"Other synthetic narcotics"	"T40.4"	"Virginia"	"51"	"45-54 years"	"45-54"	"Female"	"F"	469	12704315	3.7
+	"Other synthetic narcotics"	"T40.4"	"Virginia"	"51"	"45-54 years"	"45-54"	"Male"	"M"	860	12162750	7.1
+	"Other synthetic narcotics"	"T40.4"	"Virginia"	"51"	"55-64 years"	"55-64"	"Female"	"F"	240	10415869	2.3
+	"Other synthetic narcotics"	"T40.4"	"Virginia"	"51"	"55-64 years"	"55-64"	"Male"	"M"	461	9677385	4.8
+	"Other synthetic narcotics"	"T40.4"	"Virginia"	"51"	"65-74 years"	"65-74"	"Female"	"F"	50	6870556	0.7
+	"Other synthetic narcotics"	"T40.4"	"Virginia"	"51"	"65-74 years"	"65-74"	"Male"	"M"	71	5931139	1.2
+	"Other synthetic narcotics"	"T40.4"	"Washington"	"53"	"15-24 years"	"15-24"	"Female"	"F"	74	9620777	0.8
+	"Other synthetic narcotics"	"T40.4"	"Washington"	"53"	"15-24 years"	"15-24"	"Male"	"M"	266	10289466	2.6
+	"Other synthetic narcotics"	"T40.4"	"Washington"	"53"	"25-34 years"	"25-34"	"Female"	"F"	133	10278203	1.3
+	"Other synthetic narcotics"	"T40.4"	"Washington"	"53"	"25-34 years"	"25-34"	"Male"	"M"	358	10793418	3.3
+	"Other synthetic narcotics"	"T40.4"	"Washington"	"53"	"35-44 years"	"35-44"	"Female"	"F"	179	10322013	1.7
+	"Other synthetic narcotics"	"T40.4"	"Washington"	"53"	"35-44 years"	"35-44"	"Male"	"M"	342	10559674	3.2
+	"Other synthetic narcotics"	"T40.4"	"Washington"	"53"	"45-54 years"	"45-54"	"Female"	"F"	242	10323886	2.3
+	"Other synthetic narcotics"	"T40.4"	"Washington"	"53"	"45-54 years"	"45-54"	"Male"	"M"	242	10286172	2.4
+	"Other synthetic narcotics"	"T40.4"	"Washington"	"53"	"55-64 years"	"55-64"	"Female"	"F"	181	8733511	2.1
+	"Other synthetic narcotics"	"T40.4"	"Washington"	"53"	"55-64 years"	"55-64"	"Male"	"M"	165	8398070	2.0
+	"Other synthetic narcotics"	"T40.4"	"Washington"	"53"	"65-74 years"	"65-74"	"Female"	"F"	50	5673547	0.9
+	"Other synthetic narcotics"	"T40.4"	"Washington"	"53"	"65-74 years"	"65-74"	"Male"	"M"	36	5154339	0.7
+	"Other synthetic narcotics"	"T40.4"	"Washington"	"53"	"75-84 years"	"75-84"	"Female"	"F"	13	3352799	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"West Virginia"	"54"	"15-24 years"	"15-24"	"Female"	"F"	96	2530316	3.8
+	"Other synthetic narcotics"	"T40.4"	"West Virginia"	"54"	"15-24 years"	"15-24"	"Male"	"M"	174	2662328	6.5
+	"Other synthetic narcotics"	"T40.4"	"West Virginia"	"54"	"25-34 years"	"25-34"	"Female"	"F"	387	2393732	16.2
+	"Other synthetic narcotics"	"T40.4"	"West Virginia"	"54"	"25-34 years"	"25-34"	"Male"	"M"	882	2457924	35.9
+	"Other synthetic narcotics"	"T40.4"	"West Virginia"	"54"	"35-44 years"	"35-44"	"Female"	"F"	416	2638129	15.8
+	"Other synthetic narcotics"	"T40.4"	"West Virginia"	"54"	"35-44 years"	"35-44"	"Male"	"M"	906	2636273	34.4
+	"Other synthetic narcotics"	"T40.4"	"West Virginia"	"54"	"45-54 years"	"45-54"	"Female"	"F"	338	2918137	11.6
+	"Other synthetic narcotics"	"T40.4"	"West Virginia"	"54"	"45-54 years"	"45-54"	"Male"	"M"	680	2879101	23.6
+	"Other synthetic narcotics"	"T40.4"	"West Virginia"	"54"	"55-64 years"	"55-64"	"Female"	"F"	160	2703954	5.9
+	"Other synthetic narcotics"	"T40.4"	"West Virginia"	"54"	"55-64 years"	"55-64"	"Male"	"M"	329	2598194	12.7
+	"Other synthetic narcotics"	"T40.4"	"West Virginia"	"54"	"65-74 years"	"65-74"	"Female"	"F"	21	2012169	1.0
+	"Other synthetic narcotics"	"T40.4"	"West Virginia"	"54"	"65-74 years"	"65-74"	"Male"	"M"	56	1790090	3.1
+	"Other synthetic narcotics"	"T40.4"	"Wisconsin"	"55"	"15-24 years"	"15-24"	"Female"	"F"	103	8481548	1.2
+	"Other synthetic narcotics"	"T40.4"	"Wisconsin"	"55"	"15-24 years"	"15-24"	"Male"	"M"	222	8855174	2.5
+	"Other synthetic narcotics"	"T40.4"	"Wisconsin"	"55"	"25-34 years"	"25-34"	"Female"	"F"	343	7679782	4.5
+	"Other synthetic narcotics"	"T40.4"	"Wisconsin"	"55"	"25-34 years"	"25-34"	"Male"	"M"	777	7994365	9.7
+	"Other synthetic narcotics"	"T40.4"	"Wisconsin"	"55"	"35-44 years"	"35-44"	"Female"	"F"	326	8325092	3.9
+	"Other synthetic narcotics"	"T40.4"	"Wisconsin"	"55"	"35-44 years"	"35-44"	"Male"	"M"	722	8463243	8.5
+	"Other synthetic narcotics"	"T40.4"	"Wisconsin"	"55"	"45-54 years"	"45-54"	"Female"	"F"	300	8796981	3.4
+	"Other synthetic narcotics"	"T40.4"	"Wisconsin"	"55"	"45-54 years"	"45-54"	"Male"	"M"	524	8842457	5.9
+	"Other synthetic narcotics"	"T40.4"	"Wisconsin"	"55"	"55-64 years"	"55-64"	"Female"	"F"	188	7411979	2.5
+	"Other synthetic narcotics"	"T40.4"	"Wisconsin"	"55"	"55-64 years"	"55-64"	"Male"	"M"	316	7273890	4.3
+	"Other synthetic narcotics"	"T40.4"	"Wisconsin"	"55"	"65-74 years"	"65-74"	"Female"	"F"	30	5006633	0.6
+	"Other synthetic narcotics"	"T40.4"	"Wisconsin"	"55"	"65-74 years"	"65-74"	"Male"	"M"	51	4551650	1.1
+	"Other synthetic narcotics"	"T40.4"	"Wisconsin"	"55"	"75-84 years"	"75-84"	"Female"	"F"	11	3356219	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"Wyoming"	"56"	"15-24 years"	"15-24"	"Male"	"M"	13	900622	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"Wyoming"	"56"	"25-34 years"	"25-34"	"Female"	"F"	13	757688	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"Wyoming"	"56"	"25-34 years"	"25-34"	"Male"	"M"	23	820397	2.8
+	"Other synthetic narcotics"	"T40.4"	"Wyoming"	"56"	"35-44 years"	"35-44"	"Female"	"F"	10	759648	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"Wyoming"	"56"	"35-44 years"	"35-44"	"Male"	"M"	22	799201	2.8
+	"Other synthetic narcotics"	"T40.4"	"Wyoming"	"56"	"45-54 years"	"45-54"	"Female"	"F"	18	825725	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"Wyoming"	"56"	"45-54 years"	"45-54"	"Male"	"M"	19	855029	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"Wyoming"	"56"	"55-64 years"	"55-64"	"Female"	"F"	13	728149	Unreliable
+	"Other synthetic narcotics"	"T40.4"	"Wyoming"	"56"	"55-64 years"	"55-64"	"Male"	"M"	10	755499	Unreliable
+"---"
+"Dataset: Multiple Cause of Death, 1999-2020"
+"Query Parameters:"
+"MCD - ICD-10 Codes: T40.4 (Other synthetic narcotics)"
+"UCD - Drug/Alcohol Induced Causes: Drug-induced causes"
+"Group By: Multiple Cause of death; State; Ten-Year Age Groups; Gender"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Jun 22, 2022 7:57:03 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10.html on Jun 22, 2022 7:57:03 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Footnotes:
+"1. Totals and sub-totals show the frequency of the selected causes of death, which may be greater than the number of deaths."
+"Note that any single death record may have up to 20 causes. More information."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision."
+"2. Circumstances in Georgia for the years 2008 and 2009 have resulted in unusually high death counts for the ICD-10 cause of"
+"death code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data."
+"More information: http://wonder.cdc.gov/wonder/help/mcd.html#Georgia-Reporting-Anomalies."
+"3. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death code"
+"R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10 codes,"
+"most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/mcd.html#New-Jersey-Reporting-Anomalies."
+"4. Circumstances in California resulted in unusually high death counts for the ICD-10 cause of death code R99, ""Other"
+"ill-defined and unspecified causes of mortality"" for deaths occurring in years 2000 and 2001. Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/mcd.html#California-Reporting-Anomalies."
+"5. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Assurance of Confidentiality."
+"6. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable."
+"7. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Not Stated."
+"8. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. Population figures for 2011 are bridged-race estimates of the July 1"
+"resident population, from the county-level postcensal Vintage 2011 series released by NCHS on July 18, 2012. Population figures"
+"for 2010 are April 1 Census counts. The population figures for years 2001 - 2009, are bridged-race estimates of the July 1"
+"resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012."
+"Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of"
+"July 1 estimates. Population figures for Infant Age Groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"9. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Age Group."
+"10. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"
+"in information available to individual states and probable errors. Caution should be used in interpreting these data. More"
+"information can be found at: https://www.cdc.gov/nchs/maternal-mortality/."
+"11. On March 11, 2021, the 2019 mortality data on CDC WONDER was updated with the 2019 mortality data updated by NCHS on March"
+"4, 2021 to include corrected information for residents of Texas affecting 5 records previously coded to cause code *U01.4,"
+"Terrorism involving firearms (homicide). The underlying and multiple cause of death codes for 5 records were corrected in the"
+"2019 data. Underlying and multiple cause of death codes for those 5 records were recoded to Assault (homicide) by other and"
+"unspecified firearm discharge, ICD-10 code X95. The corrected final death records replaces the data released on December 22,"
+"2020."
+"12. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."
